@@ -30,5 +30,8 @@ https://github.com/wenge110110/lotServer/blob/master/lotServer.pdf
 
 重新启动：/appex/bin/lotServer.sh restart
 
-更新许可 /appex/bin/serverSpeeder.sh renewLic
+更新许可：/appex/bin/serverSpeeder.sh renewLic
 
+ServerSpeeder：/serverspeeder/bin/serverSpeeder.sh restart
+
+LotServer：/appex/bin/serverSpeeder.sh restart
