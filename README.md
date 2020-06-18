@@ -18,6 +18,8 @@ bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShe
 
 https://github.com/wenge110110/lotServer/blob/master/lotServer.pdf
 
+备注：锐速状态查询以及一些配置文件位置。修改配置文件在/appex/etc下的config文件。
+
 使用方法
 
 启动命令：/appex/bin/lotServer.sh start
@@ -27,3 +29,6 @@ https://github.com/wenge110110/lotServer/blob/master/lotServer.pdf
 状态查询：/appex/bin/lotServer.sh status
 
 重新启动：/appex/bin/lotServer.sh restart
+
+更新许可 /appex/bin/serverSpeeder.sh renewLic
+
